@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Author: Aaron Surina
+# May 12, 2025
+#
 # certbot_webmail_setup.sh
 # Interactive script to obtain SSL certificates via Certbot
 # for multiple web+mail domains using webroot plugin.
